@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Guilded is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://guilded.gg/
+Guilded is a communication platform designed for gaming communities, offering chat, voice, video, and community management tools. It provides servers, channels, roles, and integrations, enabling gamers to organize events, share media, and collaborate in real-time. The service includes mobile and desktop apps, a web client, and extensive API access for developers to build bots and integrate Guilded features into other applications.
+
+**Areas:** Communication · Gaming · Community · Chat · Platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://guilded.gg/)
+- [Documentation](https://developer.guilded.gg/)
+- [Security](https://hackerone.com/roblox)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/guilded/](https://apis.io/providers/guilded/).
